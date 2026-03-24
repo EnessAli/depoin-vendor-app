@@ -1,4 +1,4 @@
-# depoin-vendor-app
+# vendor-app
 
 **Vendor Panel** — A cross-platform Flutter application for marketplace vendors. Enables product management, order tracking, coupon creation, revenue analytics, and customer messaging in a single interface.
 
