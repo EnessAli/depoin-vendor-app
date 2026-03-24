@@ -1,6 +1,6 @@
 # depoin-vendor-app
 
-**Depoin Vendor Panel** — A cross-platform Flutter application for marketplace vendors. Enables product management, order tracking, coupon creation, revenue analytics, and customer messaging in a single interface.
+**Vendor Panel** — A cross-platform Flutter application for marketplace vendors. Enables product management, order tracking, coupon creation, revenue analytics, and customer messaging in a single interface.
 
 > The application code is maintained in a private repository. This repository serves as a public showcase.
 
